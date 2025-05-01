@@ -1,4 +1,4 @@
-# project
+![2025-05-01_23-39-34](https://github.com/user-attachments/assets/2c7401e2-3023-40fe-899e-2ce58e83a3a0)# project
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,6 +13,7 @@
         <a href="#" class="logo">
             <img src="image/logo.png" alt="Лого сайта">
         </a>
+
 
         <div class="container">
 
@@ -198,9 +199,12 @@
                 </div>
             </div>
         </div>
+       
 
     </footer>
 
 
 </body>
 </html>
+ ![2025-05-01_23-39-34](https://github.com/user-attachments/assets/97848858-d1e3-4480-bb4e-d27e151b68c5)
+
